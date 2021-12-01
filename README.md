@@ -24,7 +24,9 @@ Using hyperlinks, led ON or led OFF functions are called.
 2. How to connect ESP8266 to home WiFi Router:
 Just add your WiFi router Ssid name on Line 13 and password on Line 14.
 
-3. Simply copy and paste the code in Arduino IDE, after running the code open the Serial Monitor and you will get a IP Address. Simply just copy and then paste the IP Address on your browser and there you are you can now control home appliances using your mobile phone.
+3. Add the IOTtweet library and ESPAsync_WiFiManager to your IDE.
+
+4. Simply copy and paste the code in Arduino IDE, after running the code open the Serial Monitor and you will get a IP Address. Simply just copy and then paste the IP Address on your browser and there you are you can now control home appliances using your mobile phone.
 
 
 
